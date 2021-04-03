@@ -1,4 +1,4 @@
-# Sendy_Umoja_Hackathon
+# Sendy Delivery Rider Response.
 The objective of this challenge is to create a machine learning model that will predict whether a rider will accept, decline or ignore an order sent to them.
 
 Projet Overview  
